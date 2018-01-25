@@ -1,0 +1,9 @@
+c:\users\md. reza ul karim\documents\visual studio 2012\Projects\GUI\first_class\bin\Debug\first_class.exe.config
+c:\users\md. reza ul karim\documents\visual studio 2012\Projects\GUI\first_class\bin\Debug\first_class.exe
+c:\users\md. reza ul karim\documents\visual studio 2012\Projects\GUI\first_class\bin\Debug\first_class.pdb
+c:\users\md. reza ul karim\documents\visual studio 2012\Projects\GUI\first_class\obj\Debug\first_class.Form1.resources
+c:\users\md. reza ul karim\documents\visual studio 2012\Projects\GUI\first_class\obj\Debug\first_class.Properties.Resources.resources
+c:\users\md. reza ul karim\documents\visual studio 2012\Projects\GUI\first_class\obj\Debug\first_class.csproj.GenerateResource.Cache
+c:\users\md. reza ul karim\documents\visual studio 2012\Projects\GUI\first_class\obj\Debug\first_class.exe
+c:\users\md. reza ul karim\documents\visual studio 2012\Projects\GUI\first_class\obj\Debug\first_class.pdb
+c:\users\md. reza ul karim\documents\visual studio 2012\Projects\GUI\first_class\obj\Debug\first_class.csprojResolveAssemblyReference.cache

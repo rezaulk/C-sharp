@@ -1,0 +1,31 @@
+C:\Users\MD. REZA UL KARIM\documents\visual studio 2012\Projects\GUI\Lcalculator\bin\Debug\Lcalculator.exe.config
+C:\Users\MD. REZA UL KARIM\documents\visual studio 2012\Projects\GUI\Lcalculator\bin\Debug\Lcalculator.exe
+C:\Users\MD. REZA UL KARIM\documents\visual studio 2012\Projects\GUI\Lcalculator\bin\Debug\Lcalculator.pdb
+C:\Users\MD. REZA UL KARIM\documents\visual studio 2012\Projects\GUI\Lcalculator\obj\Debug\Lcalculator.Form1.resources
+C:\Users\MD. REZA UL KARIM\documents\visual studio 2012\Projects\GUI\Lcalculator\obj\Debug\Lcalculator.Properties.Resources.resources
+C:\Users\MD. REZA UL KARIM\documents\visual studio 2012\Projects\GUI\Lcalculator\obj\Debug\Lcalculator.csproj.GenerateResource.Cache
+C:\Users\MD. REZA UL KARIM\documents\visual studio 2012\Projects\GUI\Lcalculator\obj\Debug\Lcalculator.exe
+C:\Users\MD. REZA UL KARIM\documents\visual studio 2012\Projects\GUI\Lcalculator\obj\Debug\Lcalculator.pdb
+C:\Users\MD. REZA UL KARIM\documents\visual studio 2012\Projects\GUI\Lcalculator\obj\Debug\Lcalculator.csprojResolveAssemblyReference.cache
+C:\Users\MD. REZA UL KARIM\Desktop\GUI\Lcalculator\bin\Debug\Lcalculator.exe.config
+C:\Users\MD. REZA UL KARIM\Desktop\GUI\Lcalculator\obj\Debug\Lcalculator.exe
+C:\Users\MD. REZA UL KARIM\Desktop\GUI\Lcalculator\obj\Debug\Lcalculator.pdb
+C:\Users\MD. REZA UL KARIM\Desktop\GUI\Lcalculator\bin\Debug\Lcalculator.exe
+C:\Users\MD. REZA UL KARIM\Desktop\GUI\Lcalculator\bin\Debug\Lcalculator.pdb
+C:\Users\MD. REZA UL KARIM\Desktop\GUI\Lcalculator\obj\Debug\Lcalculator.csprojResolveAssemblyReference.cache
+C:\Users\MD. REZA UL KARIM\Desktop\GUI\Lcalculator\obj\Debug\Lcalculator.Form1.resources
+C:\Users\MD. REZA UL KARIM\Desktop\GUI\Lcalculator\obj\Debug\Lcalculator.Properties.Resources.resources
+C:\Users\MD. REZA UL KARIM\Desktop\GUI\Lcalculator\obj\Debug\Lcalculator.csproj.GenerateResource.Cache
+G:\C# projects\GUI\Lcalculator\bin\Debug\Lcalculator.exe.config
+G:\C# projects\GUI\Lcalculator\bin\Debug\Lcalculator.exe.manifest
+G:\C# projects\GUI\Lcalculator\bin\Debug\Lcalculator.application
+G:\C# projects\GUI\Lcalculator\bin\Debug\Lcalculator.exe
+G:\C# projects\GUI\Lcalculator\bin\Debug\Lcalculator.pdb
+G:\C# projects\GUI\Lcalculator\obj\Debug\Lcalculator.csprojResolveAssemblyReference.cache
+G:\C# projects\GUI\Lcalculator\obj\Debug\Lcalculator.Form1.resources
+G:\C# projects\GUI\Lcalculator\obj\Debug\Lcalculator.Properties.Resources.resources
+G:\C# projects\GUI\Lcalculator\obj\Debug\Lcalculator.csproj.GenerateResource.Cache
+G:\C# projects\GUI\Lcalculator\obj\Debug\Lcalculator.exe.manifest
+G:\C# projects\GUI\Lcalculator\obj\Debug\Lcalculator.application
+G:\C# projects\GUI\Lcalculator\obj\Debug\Lcalculator.exe
+G:\C# projects\GUI\Lcalculator\obj\Debug\Lcalculator.pdb

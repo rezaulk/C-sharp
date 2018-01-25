@@ -1,0 +1,12 @@
+C:\Users\MD. REZA UL KARIM\documents\visual studio 2012\Projects\GUI\CalCulator\bin\Debug\CalCulator.exe.config
+C:\Users\MD. REZA UL KARIM\documents\visual studio 2012\Projects\GUI\CalCulator\bin\Debug\CalCulator.exe
+C:\Users\MD. REZA UL KARIM\documents\visual studio 2012\Projects\GUI\CalCulator\bin\Debug\CalCulator.pdb
+C:\Users\MD. REZA UL KARIM\documents\visual studio 2012\Projects\GUI\CalCulator\obj\Debug\CalCulator.csprojResolveAssemblyReference.cache
+C:\Users\MD. REZA UL KARIM\documents\visual studio 2012\Projects\GUI\CalCulator\obj\Debug\CalCulator.Form1.resources
+C:\Users\MD. REZA UL KARIM\documents\visual studio 2012\Projects\GUI\CalCulator\obj\Debug\CalCulator.Properties.Resources.resources
+C:\Users\MD. REZA UL KARIM\documents\visual studio 2012\Projects\GUI\CalCulator\obj\Debug\CalCulator.csproj.GenerateResource.Cache
+C:\Users\MD. REZA UL KARIM\documents\visual studio 2012\Projects\GUI\CalCulator\obj\Debug\CalCulator.exe
+C:\Users\MD. REZA UL KARIM\documents\visual studio 2012\Projects\GUI\CalCulator\obj\Debug\CalCulator.pdb
+C:\Users\MD. REZA UL KARIM\Desktop\GUI\CalCulator\bin\Debug\CalCulator.exe.config
+C:\Users\MD. REZA UL KARIM\Desktop\GUI\CalCulator\obj\Debug\CalCulator.exe
+C:\Users\MD. REZA UL KARIM\Desktop\GUI\CalCulator\obj\Debug\CalCulator.pdb

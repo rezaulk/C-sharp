@@ -1,0 +1,8 @@
+C:\Users\MD. REZA UL KARIM\Documents\Visual Studio 2012\Projects\GUI\Emergency_blood_search System\bin\Debug\Emergency_blood_search_System.exe.config
+C:\Users\MD. REZA UL KARIM\Documents\Visual Studio 2012\Projects\GUI\Emergency_blood_search System\obj\Debug\Emergency_blood_search System.csprojResolveAssemblyReference.cache
+C:\Users\MD. REZA UL KARIM\Documents\Visual Studio 2012\Projects\GUI\Emergency_blood_search System\obj\Debug\Emergency_blood_search_System.AAdmin.resources
+C:\Users\MD. REZA UL KARIM\Documents\Visual Studio 2012\Projects\GUI\Emergency_blood_search System\obj\Debug\Emergency_blood_search_System.Form1.resources
+C:\Users\MD. REZA UL KARIM\Documents\Visual Studio 2012\Projects\GUI\Emergency_blood_search System\obj\Debug\Emergency_blood_search_System.GuestA.resources
+C:\Users\MD. REZA UL KARIM\Documents\Visual Studio 2012\Projects\GUI\Emergency_blood_search System\obj\Debug\Emergency_blood_search_System.Login.resources
+C:\Users\MD. REZA UL KARIM\Documents\Visual Studio 2012\Projects\GUI\Emergency_blood_search System\obj\Debug\Emergency_blood_search_System.Properties.Resources.resources
+C:\Users\MD. REZA UL KARIM\Documents\Visual Studio 2012\Projects\GUI\Emergency_blood_search System\obj\Debug\Emergency_blood_search System.csproj.GenerateResource.Cache

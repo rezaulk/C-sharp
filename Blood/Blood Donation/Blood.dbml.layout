@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="Blood">
+  <DataContextMoniker Name="/BloodDataContext" />
+  <nestedChildShapes>
+    <classShape Id="442d1f17-d7d5-4150-81a0-eb9c95bb50f9" absoluteBounds="1.625, 2.625, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/BloodDataContext/AdminInfo" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b195fc10-afe3-4847-ac73-2f2b9f09953a" absoluteBounds="1.6399999999999997, 3.085, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a1dc6ec5-004d-4bc6-bf5f-060148e38032" absoluteBounds="7.375, 0.75, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/BloodDataContext/GuestInfo" />
+      <nestedChildShapes>
+        <elementListCompartment Id="108c5eaa-1552-44a9-a4e3-8f834cf17ae5" absoluteBounds="7.39, 1.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="89be0b2b-4fe5-4841-bae1-8d58d158e6d0" absoluteBounds="3.25, 0.5, 2, 1.9631982421875">
+      <DataClassMoniker Name="/BloodDataContext/RequestInfo" />
+      <nestedChildShapes>
+        <elementListCompartment Id="725fb083-238f-4947-bf40-51bda82ea96b" absoluteBounds="3.2649999999999997, 0.96, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(7.375 : 1.53929768880208); (5.25 : 1.53929768880208)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/BloodDataContext/GuestInfo/GuestInfo_RequestInfo" />
+      <nodes>
+        <classShapeMoniker Id="a1dc6ec5-004d-4bc6-bf5f-060148e38032" />
+        <classShapeMoniker Id="89be0b2b-4fe5-4841-bae1-8d58d158e6d0" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="f03a5947-2365-4434-b09d-4f89549224a0" absoluteBounds="7.875, 3.25, 2, 1.9631982421875">
+      <DataClassMoniker Name="/BloodDataContext/R" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d29df305-b0cd-4c22-b841-50697fe661ce" absoluteBounds="7.8900000000000006, 3.71, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7388c8ca-980c-41b9-8dc3-58487fb80178" absoluteBounds="4.75, 2.5, 2, 2.5401025390625">
+      <DataClassMoniker Name="/BloodDataContext/allrequest" />
+      <nestedChildShapes>
+        <elementListCompartment Id="699624c5-e3b0-4291-aaf8-419c6571de18" absoluteBounds="4.765, 2.96, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="1f8622c7-8622-4104-9c81-6da7b999d26f" absoluteBounds="0.5, 0.5, 2, 2.5401025390625">
+      <DataClassMoniker Name="/BloodDataContext/DonorInfo" />
+      <nestedChildShapes>
+        <elementListCompartment Id="621208e8-671a-42d8-b0c8-bf9b3b404bd6" absoluteBounds="0.51500000000000012, 0.96, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.5 : 1.48159912109375); (3.25 : 1.48159912109375)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/BloodDataContext/DonorInfo/DonorInfo_RequestInfo" />
+      <nodes>
+        <classShapeMoniker Id="1f8622c7-8622-4104-9c81-6da7b999d26f" />
+        <classShapeMoniker Id="89be0b2b-4fe5-4841-bae1-8d58d158e6d0" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(1.03125 : 3.0401025390625); (1.03125 : 5.157900390625); (7.875 : 5.157900390625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/BloodDataContext/DonorInfo/DonorInfo_R" />
+      <nodes>
+        <classShapeMoniker Id="1f8622c7-8622-4104-9c81-6da7b999d26f" />
+        <classShapeMoniker Id="f03a5947-2365-4434-b09d-4f89549224a0" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.5 : 2.53125); (4.75 : 2.53125)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/BloodDataContext/DonorInfo/DonorInfo_allrequest" />
+      <nodes>
+        <classShapeMoniker Id="1f8622c7-8622-4104-9c81-6da7b999d26f" />
+        <classShapeMoniker Id="7388c8ca-980c-41b9-8dc3-58487fb80178" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

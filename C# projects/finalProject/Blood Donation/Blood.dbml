@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Blood" Class="BloodDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(LocalDB)\v11.0;AttachDbFilename=|DataDirectory|\Blood.mdf;Integrated Security=True;Connect Timeout=30" SettingsObjectName="Blood_Donation.Properties.Settings" SettingsPropertyName="BloodConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.GuestInfo" Member="GuestInfos">
+    <Type Name="GuestInfo">
+      <Column Name="Gid" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="GPhone" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="GName" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="GAddress" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Association Name="GuestInfo_RequestInfo" Member="RequestInfos" ThisKey="Gid" OtherKey="Gid" Type="RequestInfo" />
+    </Type>
+  </Table>
+  <Table Name="dbo.DonorInfo" Member="DonorInfos">
+    <Type Name="DonorInfo">
+      <Column Name="DonorId" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Password" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="BloodGroup" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Phone" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Address" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="UserID" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Status" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Association Name="DonorInfo_RequestInfo" Member="RequestInfos" ThisKey="DonorId" OtherKey="DonorId" Type="RequestInfo" />
+    </Type>
+  </Table>
+  <Table Name="dbo.RequestInfo" Member="RequestInfos">
+    <Type Name="RequestInfo">
+      <Column Name="RequestId" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="DonorId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Gid" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Status" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Gphone" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Association Name="GuestInfo_RequestInfo" Member="GuestInfo" ThisKey="Gid" OtherKey="Gid" Type="GuestInfo" IsForeignKey="true" />
+      <Association Name="DonorInfo_RequestInfo" Member="DonorInfo" ThisKey="DonorId" OtherKey="DonorId" Type="DonorInfo" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.AdminInfo" Member="AdminInfos">
+    <Type Name="AdminInfo">
+      <Column Name="AdminId" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Phone" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Password" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Username" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

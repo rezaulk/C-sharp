@@ -1,0 +1,9 @@
+C:\Users\MD. REZA UL KARIM\documents\visual studio 2012\Projects\GUI\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\MD. REZA UL KARIM\documents\visual studio 2012\Projects\GUI\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\MD. REZA UL KARIM\documents\visual studio 2012\Projects\GUI\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\MD. REZA UL KARIM\documents\visual studio 2012\Projects\GUI\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\MD. REZA UL KARIM\documents\visual studio 2012\Projects\GUI\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\MD. REZA UL KARIM\documents\visual studio 2012\Projects\GUI\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\MD. REZA UL KARIM\documents\visual studio 2012\Projects\GUI\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\MD. REZA UL KARIM\documents\visual studio 2012\Projects\GUI\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\MD. REZA UL KARIM\documents\visual studio 2012\Projects\GUI\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb

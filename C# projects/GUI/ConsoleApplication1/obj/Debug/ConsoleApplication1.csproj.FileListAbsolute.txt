@@ -1,0 +1,9 @@
+C:\Users\MD. REZA UL KARIM\Desktop\GUI\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\MD. REZA UL KARIM\Desktop\GUI\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\MD. REZA UL KARIM\Desktop\GUI\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\MD. REZA UL KARIM\Desktop\GUI\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\MD. REZA UL KARIM\Desktop\GUI\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\MD. REZA UL KARIM\Desktop\GUI\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+G:\C# projects\GUI\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+G:\C# projects\GUI\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+G:\C# projects\GUI\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
